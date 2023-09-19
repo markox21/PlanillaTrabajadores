@@ -1,0 +1,15 @@
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.exe.config
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.exe
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.pdb
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.csproj.AssemblyReference.cache
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.csproj.SuggestedBindingRedirects.cache
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.exe
+C:\Users\jorge\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.pdb
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.exe.config
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.exe
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\bin\Debug\Sincronizacion_Hilos.pdb
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.csproj.AssemblyReference.cache
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.csproj.CoreCompileInputs.cache
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.exe
+C:\Users\Academico\source\repos\Sincronizacion_Hilos\Sincronizacion_Hilos\obj\Debug\Sincronizacion_Hilos.pdb
